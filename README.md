@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a self-taught Python enthusiast with a passion for aut
 
 ## 📌 Highlight Projects
 
-Here are some of my favorite projects:
+Here are some of my favorite projects: python
 
 - 🔊 [Speech to Text App](https://github.com/Luddinritonga/python-speech-to-text)  
   Convert voice into text using Python and save results to Word.
@@ -28,14 +28,20 @@ Here are some of my favorite projects:
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/luddin-ritonga)  
-- 📧 Email: luddin@example.com *(ganti jika ingin menampilkan email)*
-- 🌐 Personal Website: *(jika punya, boleh ditambahkan di sini)*
+- 💼 [LinkedIn] Luddin ritonga(https://www.linkedin.com/in/luddin-ritonga)  
+- 📧 Email: luddinritonga1@gmail.com
+- 🌐 Personal Website:
 
 ---
 
 ## 🧰 Tech Stack
 
+![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
+![Filament](https://img.shields.io/badge/-Filament-4E5EE4?logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-005571?logo=python)

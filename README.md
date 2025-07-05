@@ -15,13 +15,13 @@ Welcome to my GitHub! I'm a self-taught Python enthusiast with a passion for aut
 
 Here are some of my favorite projects:
 
-- 🔊 [Speech to Text App](https://github.com/luddinritonga/speech-to-text-app)  
+- 🔊 [Speech to Text App](https://github.com/Luddinritonga/python-speech-to-text)  
   Convert voice into text using Python and save results to Word.
 
 - 🌐 [Web Scraper](https://github.com/luddinritonga/web-scraping)  
   Simple website data extractor using requests & BeautifulSoup.
 
-- 📁 [Pandas Practice](https://github.com/luddinritonga/pandass)  
+- 📁 [Pandas Practice](https://github.com/Luddinritonga/pandas)  
   Exploratory data analysis with CSV & Excel files.
 
 ---

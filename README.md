@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Luddin Ritonga
 
+> 🇮🇩 [Baca dalam Bahasa Indonesia](README.id.md)
+
 Welcome to my GitHub! I'm a self-taught Python enthusiast with a passion for automation, data processing, and building smart apps that solve real problems.
 
 🎯 Currently focused on:

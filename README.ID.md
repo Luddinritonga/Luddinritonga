@@ -12,32 +12,37 @@ Saya adalah pembelajar otodidak di bidang Python, dengan minat besar dalam otoma
 
 ---
 
-## 📌 Proyek Unggulan
+## 📌 Proyek python
 
-Berikut beberapa proyek favorit saya dalam Python:
+Berikut ini beberapa proyek saya:
 
-- 🔊 [Aplikasi Speech to Text](https://github.com/Luddinritonga/python-speech-to-text)  
-  Mengubah suara menjadi teks menggunakan Python dan menyimpan hasilnya ke Word.
+- 🔊 [Aplikasi Speech to Text](https://github.com/Luddinritonga/python-speech-to-text) Mengubah suara menjadi teks menggunakan Python dan menyimpan hasilnya ke Word.
+- 🌐 [Web Scraper](https://github.com/luddinritonga/web-scraping) Alat sederhana untuk mengambil data dari website menggunakan requests & BeautifulSoup.
+- 📁 [Latihan Pandas](https://github.com/Luddinritonga/pandas) Eksplorasi data dari file CSV & Excel menggunakan Pandas.
+  
+## 📌 Proyek arduino
 
-- 🌐 [Web Scraper](https://github.com/luddinritonga/web-scraping)  
-  Alat sederhana untuk mengambil data dari website menggunakan requests & BeautifulSoup.
+Berikut ini beberapa proyek saya:
 
-- 📁 [Latihan Pandas](https://github.com/Luddinritonga/pandas)  
-  Eksplorasi data dari file CSV & Excel menggunakan Pandas.
+- 🌡️[Sensor-suhu](https://github.com/Luddinritonga/arduino-sensor-suhu) alat yang mengukur suhu dan mengirimkan datanya ke perangkat elektronik.
+- 🚦 [Lalu-lintas-buzzer](https://github.com/Luddinritonga/lalu-lintas-buzzer) alat suara peringatan saat ada pelanggaran atau kondisi tertentu di jalan.
+- 🔐 [Kunci-pintu](https://github.com/Luddinritonga/arduino-kunci-pintu) sistem otomatis yang mengontrol akses pintu menggunakan input seperti PIN
 
 ---
 
 ## 📫 Hubungi Saya
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luddinritonga03email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luddinritonga)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luddinritonga03email.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nama_channel_anda)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+
+
+<!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/username)
 [![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/username)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)-->
 
 
 ## 🧰 Teknologi yang Saya Gunakan
@@ -53,6 +58,7 @@ Berikut beberapa proyek favorit saya dalam Python:
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-005571?logo=python)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-blueviolet)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
 ---
 

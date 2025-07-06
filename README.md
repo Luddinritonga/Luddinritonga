@@ -63,7 +63,5 @@ Here are some of my favorite projects: python
 I believe the best way to learn programming is by building real things. Every repo here is a piece of my learning journey.
 
 Let's build and learn together 🚀
- <br><br><br>
- ## pacman
-[![Tonton Gameplay Pac-Man](https://img.youtube.com/vi/dScq4P5gn4A/hqdefault.jpg)](https://www.youtube.com/watch?v=dScq4P5gn4A)
+
 
